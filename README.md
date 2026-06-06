@@ -1,5 +1,17 @@
 # 🌍 Sistema de Monitoramento Ambiental via Satélite
 
+##  Integrantes
+
+Eduardo da Silva Lima (RM: 554804)
+
+Estevam Melo (RM: 555124)
+
+Enzo Bonacasatta (RM: 555372)
+
+Guilherme Ulacco (RM: 558418)
+
+Matheus Hostim (RM: 556517)
+
 ## 📌 Motivação do Projeto
 
 O aumento de problemas ambientais como desmatamento, queimadas e garimpo ilegal tem causado impactos significativos no Brasil e no mundo. Muitas dessas atividades acontecem em áreas remotas, dificultando a fiscalização e resposta rápida das autoridades.

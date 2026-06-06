@@ -96,3 +96,13 @@ O sistema foi projetado para ser escalável e pode ser expandido com:
 - Interface gráfica (dashboard)
 - Monitoramento em tempo real contínuo
 - Sistema de relatórios automáticos
+
+---
+
+## Prints do projeto
+
+<img width="367" height="350" alt="image" src="https://github.com/user-attachments/assets/0addd833-a9cb-475d-9857-a2aabb8446f3" />
+
+
+<img width="338" height="338" alt="image" src="https://github.com/user-attachments/assets/b9690dfa-3033-4de7-977e-a05556d2e4c9" />
+
